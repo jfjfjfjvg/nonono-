@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jfjfjfjvg/RNGNONONO/refs/heads/main/Protected_9818869562481527.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jfjfjfjvg/RNGNONONO/refs/heads/main/Protected_9881611090671349.txt"))()
